@@ -96,7 +96,7 @@ class _HomeState extends State<Home> {
                 TextFormField(
                   keyboardType: TextInputType.number,
                   decoration: const InputDecoration(
-                      labelText: "Altura (cm)",
+                      labelText: "Altura(cm)",
                       labelStyle: TextStyle(color: Colors.green)),
                   textAlign: TextAlign.center,
                   style: const TextStyle(color: Colors.green, fontSize: 25.0),
